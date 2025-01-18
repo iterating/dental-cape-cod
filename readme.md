@@ -3,9 +3,9 @@
 A modern, patient-focused website for a dental practice in Cape Cod, MA. Built with WordPress and PHP.
 
 ## Desktop site
-<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/public/portfolio.webdentist.dentalcapecod.desktop1.jpeg" width="700px">
+<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/public/portfolio.webdental.dentalcapecod.desktop1.jpeg" width="700px">
 
-<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/public/portfolio.webdentist.dentalcapecod.desktop2.jpeg" width="700px">
+<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/public/portfolio.webdental.dentalcapecod.desktop2.jpeg" width="700px">
 
 # Features
 
